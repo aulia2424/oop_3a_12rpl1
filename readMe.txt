@@ -1,2 +1,2 @@
-this repo belong to aulia martha brielliant 
+this repo belongs to aulia martha brielliant 
 12 rpl 1
