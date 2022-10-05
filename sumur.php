@@ -22,5 +22,13 @@ echo 'volume tabung =' .round($volTabung,1)." m3\n";
 $tKerucut = 5;
 $volKerucut = (phi*pow($r,2)*$tKerucut)/3;
 echo 'volume kerucut =' .round($volKerucut)." m3\n";
+
+// luas alas yang hilang
+$LAlas = 5;
+echo 'luas alas hilang =' .round($LAlas,1). "m3\n";
+
+// total
+$totalVolume = $volTabung+$volKerucut-$LAlas;
+echo 'total Volume =' .round($totalVolume,1). "m3\n";
 ?>
 
