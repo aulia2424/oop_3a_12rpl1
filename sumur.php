@@ -3,7 +3,6 @@
 // round = untuk membuat manjadi bulat
 // sqrt = untuk menghitung akar
 // define sama seperti constanta
-// const
 define("phi",3.14);
 
 // sisi miring kerucut
